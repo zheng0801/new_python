@@ -1,0 +1,6 @@
+In Python you can 学会编写代码
+In Python you can 学会编写脚本
+In Python you can 读取文件
+In Python you can 连接数据库
+In Python you can 进行数据分析
+In Python you can 生成报告
